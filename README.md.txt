@@ -124,7 +124,7 @@ SwiftCart is currently in MVP development.
 **Want to be an early adopter?**
 - Join our waitlist: [swiftcart.ng/waitlist](#)
 - Follow development updates: [@swiftcart](#)
-- Contact: hello@swiftcart.ng
+- Contact: ogundipeaisha@gmail.com
 
 ---
 
@@ -146,7 +146,7 @@ Built by **Ogundipe Aisha**, Product Manager passionate about solving payment fr
 
 **Background:** As a brand manager managing social commerce operations, I experienced firsthand the pain of manual payment confirmations, customer ghosting, and delivery coordination chaos. SwiftCart exists because I needed it—and thousands of other sellers do too.
 
-Connect: [LinkedIn](#) | [Twitter](#)
+Connect: [LinkedIn](https://www.linkedin.com/in/aisha-oluwaseyi-ogundipe) | [Twitter](aisha_ogundipe)
 
 ---
 
