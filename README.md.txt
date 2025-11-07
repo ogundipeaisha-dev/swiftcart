@@ -1,10 +1,10 @@
-# SwiftCart
+##SwiftCart
 
 **One link. Instant checkout. No website needed.**
 
 ---
 
-## 🎯 What is SwiftCart?
+##🎯 What is SwiftCart?
 
 SwiftCart is a one-link checkout solution designed for social commerce sellers in Nigeria. It allows Instagram, WhatsApp, and TikTok sellers to generate a professional payment link in under 30 seconds—no website, no technical skills required.
 
@@ -12,7 +12,7 @@ Share the link. Get paid. Get it delivered. All in one seamless flow.
 
 ---
 
-## 🔥 The Problem We're Solving
+##🔥 The Problem We're Solving
 
 Social sellers in Nigeria lose thousands of sales daily because of payment friction:
 
@@ -25,7 +25,7 @@ Social sellers in Nigeria lose thousands of sales daily because of payment frict
 
 ---
 
-## 💡 Why SwiftCart Matters
+##💡 Why SwiftCart Matters
 
 Nigeria's social commerce market is projected to reach ₦2.9 trillion by 2026, yet sellers are stuck using 2015-era bank transfers. 
 
@@ -45,12 +45,12 @@ Nigeria's social commerce market is projected to reach ₦2.9 trillion by 2026, 
 - Students selling from dorm rooms
 - Anyone making sales through DMs
 
-### **Secondary Users: Buyers**
+###**Secondary Users: Buyers**
 Young professionals and students who shop on social media and want a fast, trusted checkout experience.
 
 ---
 
-## ⚡ Key Features
+##⚡ Key Features
 
 ### **MVP (Now - Q1 2025)**
 - **30-Second Link Generation** – Create checkout link with product name, price, and image
@@ -73,7 +73,7 @@ Young professionals and students who shop on social media and want a fast, trust
 
 ---
 
-## 🛠️ Technologies Used
+##🛠️ Technologies Used
 
 - **Frontend:** React.js, Tailwind CSS (mobile-first, responsive design)
 - **Backend:** Node.js, Express.js (RESTful API)
@@ -84,9 +84,9 @@ Young professionals and students who shop on social media and want a fast, trust
 
 ---
 
-## 🎨 How It Works
+##🎨 How It Works
 
-### **For Sellers:**
+###**For Sellers:**
 1. Log in to SwiftCart dashboard
 2. Click "Create Link"
 3. Enter product name, price, optional image
@@ -94,7 +94,7 @@ Young professionals and students who shop on social media and want a fast, trust
 5. Get instant notification when buyer pays
 6. Receive delivery details to coordinate shipping
 
-### **For Buyers:**
+###**For Buyers:**
 1. Click checkout link from seller
 2. See product details and seller name
 3. Enter delivery address
@@ -117,7 +117,7 @@ Young professionals and students who shop on social media and want a fast, trust
 
 ---
 
-## 🚀 Getting Started
+##🚀 Getting Started
 
 SwiftCart is currently in MVP development.
 
@@ -128,19 +128,19 @@ SwiftCart is currently in MVP development.
 
 ---
 
-## 🤝 Contributing
+##🤝 Contributing
 
 This is a learning project as part of the Phibase Fellowship program. While contributions aren't open yet, feedback is welcome!
 
 ---
 
-## 📝 License
+##📝 License
 
 This project is currently proprietary. All rights reserved.
 
 ---
 
-## 👤 About the Creator
+##👤 About the Creator
 
 Built by **Ogundipe Aisha**, Product Manager passionate about solving payment friction for Nigerian social sellers.
 
@@ -150,7 +150,7 @@ Connect: [LinkedIn](https://www.linkedin.com/in/aisha-oluwaseyi-ogundipe) | [Twi
 
 ---
 
-## 🙏 Acknowledgments
+##🙏 Acknowledgments
 
 - Phibase Fellowship for the product development framework
 - Social sellers who shared their pain points during primary research
