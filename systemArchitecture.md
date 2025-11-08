@@ -4,7 +4,7 @@
 
 ---
 
-## 📐 Architecture Overview
+## Architecture Overview
 
 SwiftCart follows a **modern three-tier architecture** with clear separation between presentation, business logic, and data layers. The system is designed for scalability, maintainability, and rapid iteration during the MVP phase.
 
@@ -46,7 +46,7 @@ SwiftCart follows a **modern three-tier architecture** with clear separation bet
 
 ---
 
-## 🏗️ Technology Stack
+## Technology Stack
 
 ### **Frontend**
 | Technology | Purpose | Justification |
@@ -171,7 +171,7 @@ CREATE TABLE payments (
 
 ---
 
-## 🔄 System Workflows
+## System Workflows
 
 ### **Workflow 1: Create Checkout Link**
 
@@ -245,7 +245,7 @@ Paystack → Backend Webhook Endpoint → Database → Notifications
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 
 ### **Authentication & Authorization**
 - **JWT Tokens:** Signed with HMAC SHA-256, 24-hour expiration
@@ -269,7 +269,7 @@ Paystack → Backend Webhook Endpoint → Database → Notifications
 
 ---
 
-## 📡 API Endpoints (MVP)
+## API Endpoints (MVP)
 
 ### **Authentication**
 ```
@@ -302,7 +302,7 @@ POST /api/webhooks/paystack    (Payment status updates)
 
 ---
 
-## 🚀 Deployment Architecture
+## Deployment Architecture
 
 ### **CI/CD Pipeline**
 ```
@@ -340,7 +340,7 @@ NODE_ENV=production
 
 ---
 
-## 📊 Scalability Considerations
+## Scalability Considerations
 
 ### **Current MVP Limits**
 - **Concurrent Users:** ~500 simultaneous checkouts (single Railway instance)
@@ -356,7 +356,7 @@ NODE_ENV=production
 
 ---
 
-## 🧪 Testing Strategy
+## Testing Strategy
 
 ### **Unit Tests (Jest)**
 - Services: Payment validation, link generation logic
@@ -378,7 +378,7 @@ NODE_ENV=production
 
 ---
 
-## 🛠️ Development Setup
+## Development Setup
 
 ### **Prerequisites**
 - Node.js 18+
@@ -408,7 +408,7 @@ npm run dev:frontend # React app on :3000
 
 ---
 
-## 🔮 Future Technical Enhancements
+## Future Technical Enhancements
 
 ### **Phase 2 (Q2 2025)**
 - **Real-time Dashboard:** WebSocket for live order updates
@@ -422,7 +422,7 @@ npm run dev:frontend # React app on :3000
 
 ---
 
-## 📚 Technical References
+## Technical References
 
 - [Paystack API Docs](https://paystack.com/docs/api/)
 - [Prisma ORM Guide](https://www.prisma.io/docs/)
@@ -431,7 +431,7 @@ npm run dev:frontend # React app on :3000
 
 ---
 
-## 🤝 Contributing Guidelines
+## Contributing Guidelines
 
 ### **Code Standards**
 - ES6+ JavaScript (async/await over callbacks)
@@ -447,4 +447,4 @@ npm run dev:frontend # React app on :3000
 
 ---
 
-**Built with ⚡ by Ogundipe Aisha**
+**Built by Ogundipe Aisha**
